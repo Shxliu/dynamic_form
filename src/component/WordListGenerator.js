@@ -17,6 +17,7 @@ import '../App.css';
             <p/>
             <input value='word List' placeholder="Word List"/>
             <button className="Word_List_Button">submit</button>
+            <p>test</p>
             <p/>
          </form>
      </div>
